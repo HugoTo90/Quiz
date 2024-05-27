@@ -1,0 +1,20 @@
+¿Walter White era inicialmente un profesor de química?;true
+¿Saul Goodman es conocido por su lema 'Better Call Saul'?;true
+¿Walter White nunca usa el alias 'Heisenberg'?;false
+¿Skyler White trabaja como contadora?;true
+¿Jesse Pinkman es un matemático talentoso?;false
+¿Gus Fring maneja un negocio de drogas disfrazado como una cadena de pollos?;true
+¿El apodo de Jesse Pinkman es 'El Cocinero'?;false
+¿Hank Schrader trabaja para la DEA?;true
+¿El abogado Saul Goodman tiene un nombre real: James McGill?;true
+¿Walter y Jesse utilizan metanfetaminas azules en su negocio?;true
+¿Skyler White es completamente ajena a las actividades criminales de Walter?;false
+¿El hijo de Walter White se llama Flynn?;true
+¿Saul Goodman es un abogado honesto y ético?;false
+¿Jane Margolis era una tatuadora y novia de Jesse Pinkman?;true
+¿Mike Ehrmantraut es un ex policía y 'solucionador de problemas'?;true
+¿Tuco Salamanca es un distribuidor de drogas extremadamente tranquilo?;false
+¿Walter White envenena a Lydia Rodarte-Quayle con ricina?;true
+¿Gustavo Fring tiene una conexión con los cárteles mexicanos?;true
+¿Walter White nunca cocina metanfetaminas en un remolque?;false
+¿El último episodio de Breaking Bad se llama 'Felina'?;true

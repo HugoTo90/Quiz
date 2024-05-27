@@ -1,0 +1,1 @@
+Nombre: hola, Aciertos: 2, Errores: 3

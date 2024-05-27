@@ -1,0 +1,20 @@
+¿Darth Vader es el padre biológico de Luke Skywalker?;true
+¿El planeta natal de Chewbacca es Tatooine?;false
+¿El Maestro Yoda es un Sith?;false
+¿Princess Leia y Luke Skywalker comparten el mismo padre?;true
+¿Anakin Skywalker se convierte en Darth Vader después de caer al lado oscuro?;true
+¿El sable de luz de Luke Skywalker es de color rojo?;false
+¿Obi-Wan Kenobi es el maestro de Anakin Skywalker?;true
+¿El Emperador Palpatine es también conocido como Darth Sidious?;true
+¿Los Ewoks son habitantes del planeta Endor?;false
+¿Han Solo es un contrabandista que se une a la Alianza Rebelde?;true
+¿C-3PO es un droide de protocolo?;true
+¿El Halcón Milenario es la nave espacial de Luke Skywalker?;false
+¿Darth Maul aparece en la trilogía original de Star Wars?;false
+¿Padmé Amidala es la madre de Leia Organa?;true
+¿La Estrella de la Muerte es una base rebelde?;false
+¿El Maestro Jedi Mace Windu es interpretado por Samuel L. Jackson?;true
+¿El maestro Jedi Qui-Gon Jinn es entrenado por Obi-Wan Kenobi?;false
+¿El personaje Han Solo es interpretado por Mark Hamill?;false
+¿El planeta Mustafar es conocido por ser el hogar de los Wookiees?;false
+¿El sable de luz de Yoda es de color verde?;true
